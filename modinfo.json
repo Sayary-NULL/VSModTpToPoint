@@ -1,0 +1,14 @@
+﻿{
+  "type": "code",
+  "name": "VSModTpToPoint",
+  "modid": "tptopoint",
+  "version": "1.0.0",
+
+  "description": "tp to point",
+  "website": "none",
+  "authors": [ "Sayary" ],
+
+  "dependencies": {
+    "game": "1.12.14"
+  }
+}

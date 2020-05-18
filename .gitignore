@@ -1,3 +1,9 @@
+#users file
+bin/
+obj/
+Properties/
+*.csproj
+
 # Prerequisites
 *.d
 
